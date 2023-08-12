@@ -31,29 +31,7 @@ I am an Industrial Engineer, Research Scholar, and passionate advocate of data-d
 - Deep Learning | Data Visualization
 - MySQL | Advanced Excel
 
-## Projects
 
-- **Bearing Fault Diagnosis using CNN**
-  - Implemented CNN for diagnosing faults in rolling element bearings using TensorFlow and Keras.
-  - Achieved high accuracy in the CWRU bearing dataset by transforming vibration signals into images.
-
-- **Predicting Travel Mode by ML**
-  - Developed a model to predict employee commuting preferences using Python and Scikit-learn.
-  - Identified key predictors influencing mode of transport decisions.
-
-- **Transportation Problem Solver**
-  - Utilized Python PuLP to solve transportation problems.
-  - Optimized shipping costs and supply quantities for effective solutions.
-
-## Interests
-
-- Motivational Speaking | Mentoring
-- Debate Discussion | Social Theatre
-- Drawing | Reading | Cricket
-
-## Languages
-
-- Hindi | English | Japanese
 
 Feel free to connect with me for collaborations, discussions, or just to say hi! 😊
 
