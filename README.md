@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an Industrial Engineer, Research Scholar, and passionate advocate of data-driven healthcare innovation. Currently pursuing my PhD at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/), I'm dedicated to advancing the fields of Biostatistics, Genetics and Genomics, Epidemiology, and machine learning. I'm fortunate to collaborate with my esteemed guide, [Dr. Usha Ananthakumar](https://www.iitb.ac.in/management/dr-usha-ananthakumar), in exploring healthcare analytics and its potential to enhance patient care and medical decision-making.
+I am an Industrial Engineer, Research Scholar. Currently pursuing my PhD at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/), I'm dedicated to advancing the fields of Biostatistics, Genetics and Genomics, Epidemiology, and machine learning. I'm fortunate to collaborate with my esteemed guide, [Dr. Usha Ananthakumar](https://www.iitb.ac.in/management/dr-usha-ananthakumar), in exploring healthcare analytics and its potential to enhance patient care and medical decision-making.
 
 ## Research Focus
 
